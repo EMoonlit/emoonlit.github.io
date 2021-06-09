@@ -1,0 +1,31 @@
+.fotoperfil,
+.descricaofoto {
+  position: relative;
+}
+
+body {
+  background-color: bisque;
+}
+
+h1 {
+  color: blue;
+}
+
+.lado_a_lado {
+  line-break: auto;
+}
+
+.fotoperfil {
+  padding: 5%;
+}
+
+.descricaofotoperfil {
+  padding: 5%;
+  display: flex;
+  align-items: center;
+}
+
+.ladolado {
+  display: flex;
+  align-items: center;
+}
